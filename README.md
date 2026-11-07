@@ -12,7 +12,7 @@
 Run this command from the repository root:
 
 ```bash
-python3 phases/02-ml-fundamentals/01-what-is-machine-learning/code/ml_intro.py
+python3 ML-Fundamentals/ML-FUNDAMENTALS/01-what-is-machine-learning/code/ml_intro.py
 ```
 
 Keep the command, exit code, test accuracy, random baseline, and one sentence
